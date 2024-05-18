@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/evgen/CLionProjects/untitled/main.cpp
+main.hpp
+/cygdrive/c/Users/evgen/CLionProjects/untitled/main.hpp
+
+/cygdrive/c/Users/evgen/CLionProjects/untitled/main.hpp
+iostream
+-
+cmath
+-
+inttypes.h
+-
+windows.h
+-
+bitset
+-
+
